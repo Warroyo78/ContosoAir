@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/DevOpsBSAz400/PU%20Hosted/_apis/build/status%2FWarroyo78.ContosoAir?branchName=master)](https://dev.azure.com/DevOpsBSAz400/PU%20Hosted/_build/latest?definitionId=89&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
